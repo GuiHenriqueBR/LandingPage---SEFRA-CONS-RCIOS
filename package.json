@@ -1,0 +1,42 @@
+{
+  "name": "sefra-corretora-landing",
+  "version": "1.0.0",
+  "description": "Landing page profissional para captura de leads de consórcio imobiliário - SEFRA CORRETORA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "build": "echo 'No build process needed for static site'",
+    "test": "echo 'No tests specified'",
+    "lint": "echo 'No linting configured'",
+    "deploy": "echo 'Configure your deployment script'"
+  },
+  "keywords": [
+    "landing-page",
+    "consorcio",
+    "imobiliario",
+    "lead-generation",
+    "conversion-optimization",
+    "sefra-corretora"
+  ],
+  "author": "SEFRA CORRETORA",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sefra-corretora/landing-page.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sefra-corretora/landing-page/issues"
+  },
+  "homepage": "https://sefracorretora.com.br",
+  "dependencies": {},
+  "devDependencies": {},
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
